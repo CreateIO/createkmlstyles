@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+
+        <Style id="buildingNormalStyle">
+            <LineStyle><color>C0808080</color><width>1</width></LineStyle>
+            <PolyStyle><color>C0808080</color></PolyStyle>
+        </Style>
+        <Style id="buildingMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>3</width></LineStyle>
+            <PolyStyle><color>C0808080</color></PolyStyle>
+        </Style>
+
+        <StyleMap id="mBuilding">
+            <Pair><key>normal</key>   <styleUrl>#buildingNormalStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#buildingMouseoverStyle</styleUrl></Pair>
+        </StyleMap>
+
+    </Document>
+</kml>
