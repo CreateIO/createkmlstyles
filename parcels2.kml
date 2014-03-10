@@ -113,6 +113,10 @@
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>40FEFEFE</color></PolyStyle>
         </Style>
+        <Style id="propertyHighlightStyle">
+            <LineStyle><color>DD00E9C0</color><width>1</width></LineStyle>
+            <PolyStyle><color>2800E9C0</color></PolyStyle>
+        </Style>
 
         <StyleMap id="mProperty2Apartment">
             <Pair><key>normal</key>   <styleUrl>#property2ApartmentStyle</styleUrl></Pair>
@@ -178,6 +182,14 @@
             <Pair><key>normal</key>   <styleUrl>#property2VacantStyle</styleUrl></Pair>
             <Pair><key>highlight</key><styleUrl>#property2VacantMouseoverStyle</styleUrl>
             </Pair>
+        </StyleMap>
+        <StyleMap id="mPropertyOther">
+            <Pair><key>normal</key>   <styleUrl>#propertyOtherStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#propertyOtherMouseoverStyle</styleUrl></Pair>
+        </StyleMap>
+        <StyleMap id="mPropertyHighlight">
+            <Pair><key>normal</key>   <styleUrl>#propertyHighlightStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#propertyHighlightStyle</styleUrl></Pair>
         </StyleMap>
     </Document>
 </kml>
