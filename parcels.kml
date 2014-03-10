@@ -7,36 +7,39 @@
             <PolyStyle><color>80FF4040</color></PolyStyle>
         </Style>
         <Style id="propertyOfficeMouseoverStyle">
-            <LineStyle><color>DDFFFFFF</color><width>5</width></LineStyle>
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>40FF3939</color></PolyStyle>
         </Style>
+        
         <Style id="propertyResidentialStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>804040FF</color></PolyStyle>
         </Style>
         <Style id="propertyResidentialMouseoverStyle">
-            <LineStyle><color>DDFFFFFF</color><width>5</width></LineStyle>
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>403939FF</color></PolyStyle>
         </Style>
+        
         <Style id="propertyRetailStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>8040FF40</color></PolyStyle>
         </Style>
         <Style id="propertyRetailMouseoverStyle">
-            <LineStyle><color>DDFFFFFF</color><width>5</width></LineStyle>
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>4039FF39</color></PolyStyle>
         </Style>
+        
         <Style id="propertyOtherStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>80FFFFFF</color></PolyStyle>
         </Style>
         <Style id="propertyOtherMouseoverStyle">
-            <LineStyle><color>DDFFFFFF</color><width>5</width></LineStyle>
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>40FEFEFE</color></PolyStyle>
         </Style>
         
         <Style id="propertyHighlightStyle">
-            <LineStyle><color>DD00E9C0</color><width>5</width></LineStyle>
+            <LineStyle><color>DD00E9C0</color><width>1</width></LineStyle>
             <PolyStyle><color>2800E9C0</color></PolyStyle>
         </Style>
 
@@ -44,34 +47,23 @@
             <Pair><key>normal</key>   <styleUrl>#propertyOfficeStyle</styleUrl></Pair>
             <Pair><key>highlight</key><styleUrl>#propertyOfficeMouseoverStyle</styleUrl></Pair>
         </StyleMap>
-        <StyleMap id="mPropertyOfficeHighlight">
-            <Pair><key>normal</key>   <styleUrl>#propertyHighlightStyle</styleUrl></Pair>
-            <Pair><key>highlight</key><styleUrl>#propertyHighlightStyle</styleUrl></Pair>
-        </StyleMap>
         <StyleMap id="mPropertyResidential">
             <Pair><key>normal</key>   <styleUrl>#propertyResidentialStyle</styleUrl></Pair>
             <Pair><key>highlight</key><styleUrl>#propertyResidentialMouseoverStyle</styleUrl></Pair>
-        </StyleMap>
-        <StyleMap id="mPropertyResidentialHighlight">
-            <Pair><key>normal</key>   <styleUrl>#propertyHighlightStyle</styleUrl></Pair>
-            <Pair><key>highlight</key><styleUrl>#propertyHighlightStyle</styleUrl></Pair>
         </StyleMap>
         <StyleMap id="mPropertyRetail">
             <Pair><key>normal</key>   <styleUrl>#propertyRetailStyle</styleUrl></Pair>
             <Pair><key>highlight</key><styleUrl>#propertyRetailMouseoverStyle</styleUrl>
             </Pair>
         </StyleMap>
-        <StyleMap id="mPropertyRetailHighlight">
-            <Pair><key>normal</key>   <styleUrl>#propertyHighlightStyle</styleUrl></Pair>
-            <Pair><key>highlight</key><styleUrl>#propertyHighlightStyle</styleUrl></Pair>
-        </StyleMap>
         <StyleMap id="mPropertyOther">
             <Pair><key>normal</key>   <styleUrl>#propertyOtherStyle</styleUrl></Pair>
             <Pair><key>highlight</key><styleUrl>#propertyOtherMouseoverStyle</styleUrl></Pair>
         </StyleMap>
-        <StyleMap id="mPropertyOtherHighlight">
+        <StyleMap id="mPropertyHighlight">
             <Pair><key>normal</key>   <styleUrl>#propertyHighlightStyle</styleUrl></Pair>
             <Pair><key>highlight</key><styleUrl>#propertyHighlightStyle</styleUrl></Pair>
         </StyleMap>
+        
     </Document>
 </kml>

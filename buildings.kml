@@ -7,7 +7,7 @@
             <PolyStyle><color>C0808080</color></PolyStyle>
         </Style>
         <Style id="buildingMouseoverStyle">
-            <LineStyle><color>DDFFFFFF</color><width>3</width></LineStyle>
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
             <PolyStyle><color>C0808080</color></PolyStyle>
         </Style>
 
