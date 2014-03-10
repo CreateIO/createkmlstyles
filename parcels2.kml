@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Style id="property2ApartmentStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80006d2c</color></PolyStyle>
+        </Style>
+        <Style id="property2ApartmentMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40006d2d</color></PolyStyle>
+        </Style>
+        <Style id="property2CondoStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>8066c2a4</color></PolyStyle>
+        </Style>
+        <Style id="property2CondoMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>4066c2a5</color></PolyStyle>
+        </Style>
+        <Style id="property2FlatsStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>802ca25f</color></PolyStyle>
+        </Style>
+        <Style id="property2FlatsMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>402ca260</color></PolyStyle>
+        </Style>
+        <Style id="property2IndustrialStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80d7301f</color></PolyStyle>
+        </Style>
+        <Style id="property2IndustrialMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40d73020</color></PolyStyle>
+        </Style>
+        <Style id="property2LodgingStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>802b8cbe</color></PolyStyle>
+        </Style>
+        <Style id="property2LodgingMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>402b8cbf</color></PolyStyle>
+        </Style>
+        <Style id="property2MixedUseStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80045a8d</color></PolyStyle>
+        </Style>
+        <Style id="property2MixedUseMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40045a8e</color></PolyStyle>
+        </Style>
+        <Style id="property2OfficeStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>8074a9cf</color></PolyStyle>
+        </Style>
+        <Style id="property2OfficeMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>4074a9d0</color></PolyStyle>
+        </Style>
+        <Style id="property2OtherStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80fc8d59</color></PolyStyle>
+        </Style>
+        <Style id="property2OtherMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40fc8d5a</color></PolyStyle>
+        </Style>
+        <Style id="property2OtherCommercialStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80d0d1e6</color></PolyStyle>
+        </Style>
+        <Style id="property2OtherCommercialMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40d0d1e7</color></PolyStyle>
+        </Style>
+        <Style id="property2OtherResidentialStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80ccece6</color></PolyStyle>
+        </Style>
+        <Style id="property2OtherResidentialMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40ccece7</color></PolyStyle>
+        </Style>
+        <Style id="property2RetailStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80a6bddb</color></PolyStyle>
+        </Style>
+        <Style id="property2RetailMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40a6bddc</color></PolyStyle>
+        </Style>
+        <Style id="property2SingleFamilyStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>8099d8c9</color></PolyStyle>
+        </Style>
+        <Style id="property2SingleFamilyMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>4099d8ca</color></PolyStyle>
+        </Style>
+        <Style id="property2VacantStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80fdcc8a</color></PolyStyle>
+        </Style>
+        <Style id="property2VacantMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40fdcc8b</color></PolyStyle>
+        </Style>
+        <Style id="propertyOtherStyle">
+            <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>80FFFFFF</color></PolyStyle>
+        </Style>
+        <Style id="propertyOtherMouseoverStyle">
+            <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
+            <PolyStyle><color>40FEFEFE</color></PolyStyle>
+        </Style>
+
+        <StyleMap id="mProperty2Apartment">
+            <Pair><key>normal</key>   <styleUrl>#property2ApartmentStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2ApartmentMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Condo">
+            <Pair><key>normal</key>   <styleUrl>#property2CondoStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2CondoMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Flats">
+            <Pair><key>normal</key>   <styleUrl>#property2FlatsStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2FlatsMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Industrial">
+            <Pair><key>normal</key>   <styleUrl>#property2IndustrialStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2IndustrialMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Lodging">
+            <Pair><key>normal</key>   <styleUrl>#property2LodgingStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2LodgingMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2MixedUse">
+            <Pair><key>normal</key>   <styleUrl>#property2MixedUseStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2MixedUseMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Office">
+            <Pair><key>normal</key>   <styleUrl>#property2OfficeStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2OfficeMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Other">
+            <Pair><key>normal</key>   <styleUrl>#property2OtherStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2OtherMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2OtherCommercial">
+            <Pair><key>normal</key>   <styleUrl>#property2OtherCommercialStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2OtherCommercialMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2OtherResidential">
+            <Pair><key>normal</key>   <styleUrl>#property2OtherResidentialStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2OtherResidentialMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Retail">
+            <Pair><key>normal</key>   <styleUrl>#property2RetailStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2RetailMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2SingleFamily">
+            <Pair><key>normal</key>   <styleUrl>#property2SingleFamilyStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2SingleFamilyMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="mProperty2Vacant">
+            <Pair><key>normal</key>   <styleUrl>#property2VacantStyle</styleUrl></Pair>
+            <Pair><key>highlight</key><styleUrl>#property2VacantMouseoverStyle</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>
