@@ -3,7 +3,7 @@
     <Document>
         <Style id="property2ApartmentStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>802c6d00</color></PolyStyle>
+            <PolyStyle><color>d02c6d00</color></PolyStyle>
         </Style>
         <Style id="property2ApartmentMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -11,7 +11,7 @@
         </Style>
         <Style id="property2CondoStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80a4c266</color></PolyStyle>
+            <PolyStyle><color>d0a4c266</color></PolyStyle>
         </Style>
         <Style id="property2CondoMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -19,7 +19,7 @@
         </Style>
         <Style id="property2FlatsStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>805fa22c</color></PolyStyle>
+            <PolyStyle><color>d05fa22c</color></PolyStyle>
         </Style>
         <Style id="property2FlatsMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -27,7 +27,7 @@
         </Style>
         <Style id="property2IndustrialStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>801f30d7</color></PolyStyle>
+            <PolyStyle><color>d01f30d7</color></PolyStyle>
         </Style>
         <Style id="property2IndustrialMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -35,7 +35,7 @@
         </Style>
         <Style id="property2LodgingStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80be8c2b</color></PolyStyle>
+            <PolyStyle><color>d0be8c2b</color></PolyStyle>
         </Style>
         <Style id="property2LodgingMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -43,7 +43,7 @@
         </Style>
         <Style id="property2MixedUseStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>808d5a04</color></PolyStyle>
+            <PolyStyle><color>d08d5a04</color></PolyStyle>
         </Style>
         <Style id="property2MixedUseMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -51,7 +51,7 @@
         </Style>
         <Style id="property2OfficeStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80cfa974</color></PolyStyle>
+            <PolyStyle><color>d0cfa974</color></PolyStyle>
         </Style>
         <Style id="property2OfficeMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -59,7 +59,7 @@
         </Style>
         <Style id="property2OtherCommercialStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80e6d1d0</color></PolyStyle>
+            <PolyStyle><color>d0e6d1d0</color></PolyStyle>
         </Style>
         <Style id="property2OtherCommercialMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -67,7 +67,7 @@
         </Style>
         <Style id="property2OtherResidentialStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80e6eccc</color></PolyStyle>
+            <PolyStyle><color>d0e6eccc</color></PolyStyle>
         </Style>
         <Style id="property2OtherResidentialMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -75,7 +75,7 @@
         </Style>
         <Style id="property2RetailStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80dbbda6</color></PolyStyle>
+            <PolyStyle><color>d0dbbda6</color></PolyStyle>
         </Style>
         <Style id="property2RetailMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -83,7 +83,7 @@
         </Style>
         <Style id="property2SingleFamilyStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80c9d899</color></PolyStyle>
+            <PolyStyle><color>d0c9d899</color></PolyStyle>
         </Style>
         <Style id="property2SingleFamilyMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -91,7 +91,7 @@
         </Style>
         <Style id="property2VacantStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>808accfd</color></PolyStyle>
+            <PolyStyle><color>d08accfd</color></PolyStyle>
         </Style>
         <Style id="property2VacantMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
@@ -107,7 +107,7 @@
         </Style>
         <Style id="propertyHighlightStyle">
             <LineStyle><color>DDC0E900</color><width>1</width></LineStyle>
-            <PolyStyle><color>28C0E900</color></PolyStyle>
+            <PolyStyle><color>d0C0E900</color></PolyStyle>
         </Style>
 
         <StyleMap id="mProperty2Apartment">
