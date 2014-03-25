@@ -99,11 +99,11 @@
         </Style>
         <Style id="propertyOtherStyle">
             <LineStyle><color>40FFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>80FFFFFF</color></PolyStyle>
+            <PolyStyle><color>80fc8d59</color></PolyStyle>
         </Style>
         <Style id="propertyOtherMouseoverStyle">
             <LineStyle><color>DDFFFFFF</color><width>1</width></LineStyle>
-            <PolyStyle><color>40FEFEFE</color></PolyStyle>
+            <PolyStyle><color>40fc8d5a</color></PolyStyle>
         </Style>
         <Style id="propertyHighlightStyle">
             <LineStyle><color>DDC0E900</color><width>1</width></LineStyle>
